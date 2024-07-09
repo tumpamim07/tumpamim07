@@ -39,8 +39,6 @@
 <br>
 <br>
   <br>
-  <br>
-  <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tumpamim07&" alt="tumpamim07" /></p>
 
 <br>
